@@ -1,0 +1,2 @@
+-r requiments/rnn.txt
+tensorflow-gpu
